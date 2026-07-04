@@ -8,7 +8,6 @@ Simple URL shortening service.
 - Click analytics
 - API access
 - Redirect tracking
-
 ## Tech Stack
 - Go
 - Redis
