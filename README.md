@@ -1,5 +1,4 @@
 # URL Shortener
-
 Simple URL shortening service.
 ## Features
 - Custom short URLs
