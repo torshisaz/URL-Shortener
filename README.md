@@ -6,7 +6,7 @@ Simple URL shortening service.
 - Click analytics
 - API access
 - Redirect tracking
-## Tech Stack
+ Tech Stack
 - Go
 - Redis
 - PostgreSQL
