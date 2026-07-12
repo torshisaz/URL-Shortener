@@ -7,7 +7,7 @@ Simple URL shortening service.
 - API access
 - Redirect tracking
  Tech Stack
-- Go
+- 
 - Redis
 - PostgreSQL
 - Docker
